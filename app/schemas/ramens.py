@@ -2,7 +2,14 @@ from pydantic import BaseModel
 
 
 class RamenReviewCreate(BaseModel):
-    pass
+    Brand: str
+    Variety: str
+    Style: str
+    Country: str
+    Stars: str
+    Top_Ten: str
+    Review: int
+
 
 
 
