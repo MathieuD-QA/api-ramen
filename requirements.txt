@@ -1,0 +1,4 @@
+supabase~=0.5.3
+python-dotenv~=0.15.0
+fastapi~=0.75.0
+pydantic~=1.9.0
