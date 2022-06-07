@@ -1,5 +1,5 @@
 from fastapi import APIRouter, status
-from app.schemas import ramens
+#from app.schemas import ramens
 from app.db import supabases
 
 router = APIRouter()
